@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+echo " An if statement does not require two parameters. you can use single flags as well. The following code tests to see if the first parameter is a file or not."
